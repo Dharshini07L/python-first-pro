@@ -1,1 +1,1 @@
-# python-first-pro
+print ("hello , world~")
